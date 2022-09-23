@@ -16,12 +16,35 @@ import time
 
 
 
-x = np.array([4,5,6])
+# x = np.array([4,5,6])
 
-print(x)
-print(type(x))
-print(x.shape)
-print(x.size)
-print(x.ndim)
-print(x.nbytes)
-print(x.dtype)
+# print(x)
+# print(type(x))
+# print(x.shape)
+# print(x.size)
+# print(x.ndim)
+# print(x.nbytes)
+# print(x.dtype)
+
+# y = np.array([[1,2,3], [4,5,6]])
+
+# print(y)
+# print(type(y))
+# print(y.shape)
+# print(y.size)
+# print(y.ndim)
+# print(y.nbytes)
+# print(y.dtype)
+
+
+# z = np.array([[[1,2],[3,4]],[[1,2],3,4]])
+
+# print(z)
+# print(type(z))
+# print(z.shape)
+# print(z.size)
+# print(z.ndim)
+# print(z.nbytes)
+# print(z.dtype)
+
+x = np.array
